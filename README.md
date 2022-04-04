@@ -1,25 +1,45 @@
-# **Project Title**
+# Weather Journal App
 
-Weather_Journal_Project_Using_NodeJs_And_Fetch_And_APIs
+Weather Journal App created with Express for backend and vanilla Javascript for frontend
+a project Created for FWD **Front End Web Development Professional Nanodegree Program**
 
-# **Usage**
+## Table of contents
 
-Submission for Udacity
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+-   [Author](#author)
 
-# **Development**
+## Overview
 
-Made by me Ibrahim_Rezq
+### The challenge
 
-# **Adding new features or fixing bugs**
+Users should be able to:
 
-Yet to do
+-   Get currrnt weather from OpenWeatherAPI
+-   Store the Weather in Backend for later retrival
 
-# **Attribution**
+### Links
 
-[MDN documentation](https://developer.mozilla.org/en-US/)
-Udacity course
+-   Code URL: [Weather Journal App](https://github.com/Ibrahim-Rezq/Weather-Journal-App)
 
-# **Footer**
+## My process
 
-©Ibrahim_Reqz
-Made For Udacity Weather Journal Project
+### Built with
+
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   JavaScript with API Fetching
+-   Express & Node for Backend
+
+### What I learned
+
+Making this Project was a gate opened on the vast world of API and Frontend backend connection
+with a small window on the world of backend in general
+
+## Author
+
+-   Git-Hub - [Ibrahim-Rezk](https://github.com/Ibrahim-Rezq)
